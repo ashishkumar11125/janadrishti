@@ -118,3 +118,7 @@ Build the application for production:
 npm run build
 ```
 
+
+## VIEW 
+https://drive.google.com/file/d/1i85bKgpXzYSv409UipaVg40BBZJCNpiA/view?usp=sharing
+
